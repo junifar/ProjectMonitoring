@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74854074681",
+    "firebase_url": "https://projectmonitoring-862ba.firebaseio.com",
+    "project_id": "projectmonitoring-862ba",
+    "storage_bucket": "projectmonitoring-862ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74854074681:android:e47a81faf35fdf01",
+        "android_client_info": {
+          "package_name": "com.prodroid.projectmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74854074681-8mumf87uapj1qfl4nuq13a5mh990al81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prodroid.projectmonitoring",
+            "certificate_hash": "45f48b0450665ccec8ebb064792571107f6f2275"
+          }
+        },
+        {
+          "client_id": "74854074681-o0hbii8m7k0u9u4igf8c16atb5lgb1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9ffwJJ78ipsWLlfJrifCr-09FHQcfKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74854074681-o0hbii8m7k0u9u4igf8c16atb5lgb1hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
